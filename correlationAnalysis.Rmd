@@ -1,9 +1,3 @@
----
-title: "GR5223\nTake-Home Final Exam"
-author: 'Euiyoung Chung( UNI: ec3243 )'
-date: "5/4/2018"
-output: pdf_document
----
 
 ## Problem 1. A firm is attempting to evaluate the quality of its sales staff and is trying to find an examination or series of tests that may reveal the potential for good performance in sales.
 
